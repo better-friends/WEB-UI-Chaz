@@ -369,7 +369,6 @@ a:hover{
     display: none;
     overflow: hidden;
   }
-
  
   
 
@@ -410,14 +409,14 @@ a:hover{
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
+  color:black;
 }
 
 .prev {
     left: 0;
     border-radius: 3px 0 0 3px;
+    color:black;
   }
-
-
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
